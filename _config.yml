@@ -4,17 +4,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
-copyright: Copyright © 1970-2010
+title: SunGun 개발 블로그
+email: z5318330@gmail.com
+author: 박성운
+copyright: Copyright © 2020
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  공주대학교 컴퓨터공학과 재학중인 박성운입니다.
+  인공지능이나 백엔드 프로그래밍에 관심이 많습니다.
+  블로그에 방문해주셔서 감사합니다.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "SunGunPark" # the subpath of your site, e.g. /blog
+url: "SunGunPark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
